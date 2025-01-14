@@ -6,6 +6,8 @@
 - [万维组态操作文档](http://oldzt.doc.gzzjy.cn)
 - [万维组态在线体验](http://oldzt.admin.gzzjy.cn)
 
+![智捷云iOT平台](http://www.gzzjy.cn/img/zjy_action_small.png)
+
 ### 1、产品功能
 
 - 设备接入：支持多种协议接入，包括MQTT、CoAP、LwM2M、HTTP、西门子系列、三菱系列、Modbus协议、TCP/IP协议等。
