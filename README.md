@@ -2,6 +2,10 @@
 
 [贵州智捷云物联网平台](http://www.gzzjy.cn)是基于物联网云平台的物联网解决方案，提供基于物联网的设备接入、数据采集、数据处理、数据存储、数据分析、数据展示、设备控制等一系列物联网服务。
 
+- [智捷云iOT在线体验](http://iot.gzzjy.cn)
+- [万维组态操作文档](http://oldzt.doc.gzzjy.cn)
+- [万维组态在线体验](http://oldzt.admin.gzzjy.cn)
+
 ### 1、产品功能
 
 - 设备接入：支持多种协议接入，包括MQTT、CoAP、LwM2M、HTTP、西门子系列、三菱系列、Modbus协议、TCP/IP协议等。
